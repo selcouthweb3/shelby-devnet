@@ -1,0 +1,24 @@
+# Shelby DevNet Setup
+
+A walkthrough of setting up a Shelby DevNet environment on Ubuntu (WSL), creating a wallet, funding it, and uploading a file to the Shelby network.
+
+## What I Did
+- Installed Node.js v22 using NVM
+- Installed the Shelby CLI
+- Created and funded a wallet on Shelbynet (10 APT + 10 ShelbyUSD)
+- Uploaded a file to the Shelby network
+- Downloaded the file back locally
+
+## Tools Used
+- Ubuntu (WSL on Windows)
+- Node.js v22
+- Shelby CLI
+- Shelbynet
+
+## Files
+- `hello.txt` — test file uploaded to the Shelby network
+- `downloaded-hello.txt` — file downloaded back from the network
+
+## Resources
+- [Shelby Protocol](https://geomi.dev)
+- [Shelby Docs](https://docs.shelby.xyz)
